@@ -7,13 +7,13 @@ The purpose of this analysis is to aggregate the provided Amazon Vine purchase r
 ## Results:
 
 Of the total number of reviews (3,514,942), there were:
-  - 3,508,784 unpaid reviews (99.82%)
+  - 3,508,784 unpaid reviews (99.82%):
 ![This is an image](https://github.com/BNew2022/Amazon_Vine_Analysis/blob/main/Images/total_unpaid.png)
-  - 5,925 paid reviews (0.18%) 
+  - 5,925 paid reviews (0.18%): 
 ![This is an image](https://github.com/BNew2022/Amazon_Vine_Analysis/blob/main/Images/total_paid.png) 
-  - Of the paid vine reviews, 2743 were 5 star reviews, representing 46.29% of the total vine reviews
+  - Of the paid vine reviews, 2743 were 5 star reviews, representing 46.29% of the total vine reviews:
 ![This is an image](https://github.com/BNew2022/Amazon_Vine_Analysis/blob/main/Images/5star_vine.png)
-  - There were a total of 2,300,587 non vine, 5 star reviews, representing 65.45% of the total reviews
+  - There were a total of 2,300,587 non vine, 5 star reviews, representing 65.45% of the total reviews:
 ![This is an image](https://github.com/BNew2022/Amazon_Vine_Analysis/blob/main/Images/5star_non_vine.png)
 
 ## Summary
